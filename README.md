@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**ifty64bit/ifty64bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A Full-Stack MERN Developer
 
-Here are some ideas to get you started:
+#### Love to code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.php`
+- 🌍 I'm mostly active within the **React Community**
+- 🌱 Learning all about **Web Technology**
+- 💬 Ping me about **Reactjs**, **Expressjs**, **MERN Stack Development**
+- 📫 Reach me: [Email](mailto:ifty64bit@gmail.com)
+- ⚡️ Fun fact: I'm a huge fan of Astronomy
